@@ -1,6 +1,5 @@
 # Hi ,I Am a Flutter Developer 👋
 
-![405847141_2379464905776394_6580766239717174786_n](https://github.com/Masumraj1/Masumraj1/assets/141552007/1e59c089-9c6e-43ca-abdf-777bda1b59f7)
 
 Here are some ideas to get you started:
 
