@@ -1,15 +1,15 @@
 
 ### Hi there 👋, My Name is Masum Raj
-#### Flutter Developr
+#### Flutter Developer
 ![405847141_2379464905776394_6580766239717174786_n](https://github.com/Masumraj1/Masumraj1/assets/141552007/76350fe8-fbc1-410c-8a65-457eb6709a94)
 Student at bdCalling IT Ltd At Flutter Developer || IOS & Android Developer || Flutter Mobile Application Developer || Dart || Firebase||Google Admob
 
 Skills: Dart/ Flutter/ Firebase/git and github
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Flutter and dart 
-- 👯 I’m looking to collaborate on git and github 
-- 🤔 I’m looking for help with paid internship 
+- 🔭 I’m currently working free internship in bd calling it limited.
+- 🌱 I’m currently learning Flutter and dart .
+- 👯 I’m looking to collaborate on git and github .
+###- 🤔 I’m looking for help with Paid internship .
 - 📫 How to reach me: facebook,linkedin 
 
 
