@@ -9,6 +9,7 @@ Skills: Dart/ Flutter/ Firebase/git and github
 - 🔭 I’m currently working free internship in bd calling it limited.
 - 🌱 I’m currently learning Flutter and dart .
 - 👯 I’m looking to collaborate on git and github .
+-  I’m looking for help with Flutter App Development (Dart)
 ###- 🤔 I’m looking for help with Paid internship .
 - 📫 How to reach me: facebook,linkedin 
 
