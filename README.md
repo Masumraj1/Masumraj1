@@ -7,7 +7,7 @@ Student at bdCalling IT Ltd At Flutter Developer || IOS & Android Developer || F
 - 🌱 I’m currently learning Flutter and dart .
 - 👯 I’m looking to collaborate on git and github .
 -  I’m looking for help with Flutter App Development (Dart)
-###- 🤔 I’m looking for help with Paid internship .
+-  🤔 I’m looking for help with Paid internship .
 - 📫 Connect with me: facebook,linkedin 
 ## Skills: Dart/ Flutter/ Firebase/git and github
 
