@@ -2,7 +2,6 @@
 #### Flutter Developer
 Student at bdCalling IT Ltd At Flutter Developer || IOS & Android Developer || Flutter Mobile Application Developer || Dart || Firebase||Google Admob
 
-Skills: Dart/ Flutter/ Firebase/git and github
 - 🌱I'm currently working on Flutter.
 - 🔭 I’m currently working free internship in bd calling it limited.
 - 🌱 I’m currently learning Flutter and dart .
@@ -10,6 +9,7 @@ Skills: Dart/ Flutter/ Firebase/git and github
 -  I’m looking for help with Flutter App Development (Dart)
 ###- 🤔 I’m looking for help with Paid internship .
 - 📫 Connect with me: facebook,linkedin 
+## Skills: Dart/ Flutter/ Firebase/git and github
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Masumraj1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/flutterdeveloperbd//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/sadibestu)  
