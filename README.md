@@ -1,9 +1,9 @@
  #                                                                    Hi there 👋, I'm Masum Raj
 #### Flutter Developer
-Student at bdCalling IT Ltd At Flutter Developer || IOS & Android Developer || Flutter Mobile Application Developer || Dart || Firebase||Google Admob
+Jr.Software Enginear(Flutter) at Bd Calling It limited...
 
 - 🌱I'm currently working on Flutter.
-- 🔭 I’m currently working Paid internship in bd calling it limited.
+- 🔭 I’m currently working Jr.Software Enginear(Flutter) at Bd Calling It limited...
 - 🌱 I’m currently learning Flutter and dart .
 - 👯 I’m looking to collaborate on git and github .
 -  I’m looking for help with Flutter App Development (Dart)
