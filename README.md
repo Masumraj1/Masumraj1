@@ -1,14 +1,13 @@
-<td align="center">
-    <a href="https://alisolanki.com/">
-        <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Ali Solanki"/>
-        <br />
-        <sub><b>Ali Solanki</b></sub>
-    </a>
-</td>
- <td align="center">
-    <a href="https://github.com/neeraj500">
-        <img src="https://avatars.githubusercontent.com/u/81459147?v=4" width="100px;" alt="Neeraj Madake"/>
-        <br />
-        <sub><b>Neeraj Madake
-    </a>
-</td>
+ #                                                                    Hi there 👋, I'm Masum Raj
+#### Flutter Developer
+Jr.Software Enginear(Flutter) at Bd Calling It limited...
+
+- 🔭 I’m currently working Jr.Software Enginear(Flutter) at Bd Calling It limited...
+- 👯 I’m looking to collaborate on git and github .
+-  I’m looking for help with Flutter App Development (Dart)
+- 📫 Connect with me: facebook,linkedin 
+## Skills: Dart/ Flutter/ Firebase/git and github
+
+  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
