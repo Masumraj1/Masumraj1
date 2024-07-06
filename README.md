@@ -2,9 +2,7 @@
 #### Flutter Developer
 Jr.Software Enginear(Flutter) at Bd Calling It limited...
 
-- 🌱I'm currently working on Flutter.
 - 🔭 I’m currently working Jr.Software Enginear(Flutter) at Bd Calling It limited...
-- 🌱 I’m currently learning Flutter and dart .
 - 👯 I’m looking to collaborate on git and github .
 -  I’m looking for help with Flutter App Development (Dart)
 - 📫 Connect with me: facebook,linkedin 
