@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on git and github .
 -  I’m looking for help with Flutter App Development (Dart)
 - 📫 Connect with me: facebook,linkedin 
-## Skills: Dart/ Flutter/ Firebase/git and github
+## Skills: Dart/ Flutter/ Firebase/git and github/Google Map/Google_calender/home_widget
 
   
 
