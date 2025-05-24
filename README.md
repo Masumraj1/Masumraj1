@@ -2,63 +2,74 @@
   <img src="https://komarev.com/ghpvc/?username=masumraj1&style=for-the-badge" alt="Profile Views" />
 </div>
 
-# 🌟 **Welcome to My GitHub Profile!** 🌟
+<h1 align="center">🌟 Welcome to My GitHub Profile! 🌟</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F70000&width=435&lines=Hi+there!+I'm+Masum+Raj;Flutter+Developer+%7C+Tech+Enthusiast;Always+learning+and+exploring!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Masum+Raj;Flutter+Developer+%7C+Tech+Enthusiast;Always+learning+and+exploring!" alt="Typing SVG" />
 </div>
 
 ---
 
-### 🚀 **About Me**
-- 💼 Jr. Software Engineer (**Flutter**) at **Bd Calling IT Limited**.  
-- 🔭 Passionate about creating **scalable and beautiful apps**.  
-- 🌱 Always exploring new technologies and best practices in **Flutter** and **Dart**.  
-- 👯 Open to collaborations and learning opportunities.  
+## 🚀 About Me
+
+- 👨‍💻 **Jr. Software Engineer (Flutter)** at **Bd Calling IT Limited**
+- 🌱 Constantly learning **Flutter**, **Dart**, and mobile app architecture
+- 🔭 Building clean, scalable, and modern apps with ❤️
+- 🤝 Open to freelance, collaborations, and mentorship
 
 ---
 
-### 🌟 **Skills**
+## 🛠️ Tech Stack
+
 <div align="center">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white" alt="Google Maps" />
-  <img src="https://img.shields.io/badge/Google_Calendar-34A853?style=for-the-badge&logo=google-calendar&logoColor=white" alt="Google Calendar" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Calendar-34A853?style=for-the-badge&logo=google-calendar&logoColor=white" />
 </div>
 
 ---
 
-### 📫 **Let’s Connect!**
+## 📊 GitHub Stats
+
 <div align="center">
-  <a href="https://facebook.com"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:masumraj@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=masumraj1&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=masumraj1&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masumraj1&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
 </div>
 
 ---
 
-### 📊 **GitHub Analytics**
+## 🌐 Connect With Me
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=masumraj1&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=masumraj1&theme=tokyonight" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masumraj1&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <a href="https://facebook.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:masumraj@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>
 
 ---
 
-### 🎯 **Fun Facts**
-- 💡 Favorite Tech Stack: **Flutter + Firebase**  
-- 🎨 Enjoys designing intuitive UI/UX.  
-- 🌍 Love collaborating with developers worldwide.  
+## 🎯 Fun Facts
+
+- 💡 Favorite Stack: `Flutter + Firebase`
+- 🎨 Passionate about UI/UX and pixel-perfect designs
+- 🌍 Love working with global devs and solving real-world problems
 
 ---
 
 <div align="center">
-  <h3>💻 "Keep coding, keep growing!" 💻</h3>
+  <h3>💻 Keep Coding, Keep Growing 💻</h3>
 </div>
 
 ---
