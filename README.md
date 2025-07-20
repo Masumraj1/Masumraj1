@@ -13,7 +13,7 @@
 ---
 
 ## 🚀 About Me
-- 💼 Jr. Software Engineer (**Flutter**) at **Bd Calling IT Limited**
+- 💼  Software Engineer (**Flutter**) at **Bitupia Group**
 - 📱 Focused on **scalable**, **performant**, and **beautiful apps**
 - 🌱 Currently diving deeper into **Flutter**, **Dart**, and **clean architecture**
 - 🤝 Open to remote work, freelance gigs & collaborations!
