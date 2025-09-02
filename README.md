@@ -13,7 +13,8 @@
 ---
 
 ## 🚀 About Me
-- 💼  Software Engineer (**Flutter**) at **Betopia Group**
+- 💼 Mobile Application Developer At **Yuma Technology Lmt**
+- 💼 Ex Software Engineer (**Flutter**) at **Betopia Group**
 - 📱 Focused on **scalable**, **performant**, and **beautiful apps**
 - 🌱 Currently diving deeper into **Flutter**, **Dart**, and **clean architecture**
 - 🤝 Open to remote work, freelance gigs & collaborations!
