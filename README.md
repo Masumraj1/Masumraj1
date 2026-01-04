@@ -13,7 +13,7 @@
 ---
 
 ## 🚀 About Me
-- 💼 Mobile Application Developer At **Yuma Technology LTd**
+- 💼 Mobile Application Developer At **Asl Systems LTD**
 - 💼 Ex Software Engineer (**Flutter**) at **Betopia Group**
 - 📱 Focused on **scalable**, **performant**, and **beautiful apps**
 - 🌱 Currently diving deeper into **Flutter**, **Dart**, and **clean architecture**
