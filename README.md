@@ -29,7 +29,7 @@
 
 | Period | Role | Company |
 | :--- | :--- | :--- |
-| **Present** | **Senior Mobile Application Developer** | **ASL Systems Ltd** 🚀 |
+| **Present** | **Mobile Application Developer** | **ASL Systems Ltd** 🚀 |
 | **Previous** | **Mobile Application Developer** | **Yuma Technology** 🛠️ |
 | **Foundational** | **Software Engineer (Flutter)** | **Betopia Group** 🏗️ |
 
