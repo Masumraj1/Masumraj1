@@ -4,7 +4,7 @@
 
 <h1 align="center">✨ Masum Raj</h1>
 <p align="center">
-  <kbd>Senior Flutter & Mobile Application Developer</kbd>
+  <kbd> Flutter & Mobile Application Developer</kbd>
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@
 
 | Period | Role | Company |
 | :--- | :--- | :--- |
-| **Present** | **Senior Mobile Application Developer** | **ASL Systems Ltd** 🚀 |
+| **Present** | ** Mobile Application Developer** | **ASL Systems Ltd** 🚀 |
 | **Previous** | **Mobile Application Developer** | **Yuma Technology** 🛠️ |
 | **Foundational** | **Software Engineer (Flutter)** | **Betopia Group** 🏗️ |
 
