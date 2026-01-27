@@ -18,6 +18,12 @@
 </p>
 
 <p align="center">
+  <a href="https://masumraj1.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/🌐%20View%20My%20Portfolio-Visit%20Now-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
   <a href="mailto:masumrna927@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/flutterapp/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=flat-square&logo=linkedin"/></a>
   <a href="https://www.facebook.com/sadibestu"><img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=flat-square&logo=facebook"/></a>
@@ -29,7 +35,7 @@
 
 | Period | Role | Company |
 | :--- | :--- | :--- |
-| **Present** | **Mobile Application Developer** | **ASL Systems Ltd** 🚀 |
+| **Present** | **Senior Mobile Application Developer** | **ASL Systems Ltd** 🚀 |
 | **Previous** | **Mobile Application Developer** | **Yuma Technology** 🛠️ |
 | **Foundational** | **Software Engineer (Flutter)** | **Betopia Group** 🏗️ |
 
@@ -47,7 +53,7 @@
 ![Google Maps](https://img.shields.io/badge/Google_Maps-API-4285F4?style=for-the-badge&logo=google-maps)
 
 ### 🟪 State Management & Architecture
-`BLoC` • `Provider` • `GetX` • `Clean Architecture` • `MVVM` • `TDD`
+`BLoC` • `Provider` • `GetX` • `Clean Architecture` • `MVVM` • `TDD` • `CI/CD`
 
 ---
 
@@ -59,14 +65,20 @@
 
 ---
 
+## 📁 Featured Projects
+*Check out my full work history on my **[Web Portfolio](https://masumraj1.github.io/portfolio/)**.*
+> 💡 *Note: Portfolio is currently optimized for Desktop/Web. Mobile responsiveness coming soon!*
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=masumraj1&repo=portfolio&theme=tokyonight" />
+</p>
+
+---
+
 ## 📊 Performance Metrics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=masumraj1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=masumraj1&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masumraj1&layout=compact&theme=tokyonight&hide_border=true" width="45%"/>
 </p>
 
 ---
